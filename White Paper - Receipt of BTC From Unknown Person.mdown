@@ -1,7 +1,7 @@
 **White Paper: Opinion[^1] of The Bitcoin Foundation as to the Rights and Duties that Arise When a Person Receives Bitcoins from an Unknown Source and Without Any Explanation**
 
-<p>**Gregory Egan, Esq.[^2]**</p>
-<p>**Patrick Murck, Esq.[^3]**</p>
+**Gregory Egan, Esq.[^2]**<br>
+**Patrick Murck, Esq.[^3]**
 
 **March 8, 2013**
 
@@ -94,9 +94,9 @@ Within a context of caveat sender, responsibility for the result in our scenario
 
 A person that receives bitcoins from an unknown person and without any explanation may be inclined to just assume that they were sent to them by mistake and return the bitcoins to where they came from. Just in case you missed it in the subheading: **DO NOT JUST SEND THE BITCOINS BACK.** If you simply return the bitcoins back, you may become unwittingly complicit in illegal activity.
 
-	- Laundering. The sender of the bitcoins could be trying to “clean” stolen bitcoins and by sending bitcoins back to the sender you could help launder those bitcoins without realizing what you are doing.
+1.  Laundering. The sender of the bitcoins could be trying to “clean” stolen bitcoins and by sending bitcoins back to the sender you could help launder those bitcoins without realizing what you are doing.
 
-	- Terrorist financing or other financial involvement with criminal enterprises. You don’t know the person that sent the bitcoins. Even if you are just returning money to the person, if the bitcoin address winds up being associated with a terrorist organization or other criminal enterprise, you could appear to be funding or financing that organization. Irregardless of whether or not you are purposely funding a terrorist or otherwise criminal organization, you probably do not want to even have the appearance of doing such activity.
+2.  Terrorist financing or other financial involvement with criminal enterprises. You don’t know the person that sent the bitcoins. Even if you are just returning money to the person, if the bitcoin address winds up being associated with a terrorist organization or other criminal enterprise, you could appear to be funding or financing that organization. Irregardless of whether or not you are purposely funding a terrorist or otherwise criminal organization, you probably do not want to even have the appearance of doing such activity.
 
 One more time for good measure: **NEVER JUST SEND THE BITCOINS BACK!** As discussed above, The Bitcoin Foundation’s position is that the recipient has all rights to the bitcoins received in the scenario we’re discussing and that keeping the bitcoins is fully legal. Even if you want to return the bitcoins out of the good of your heart, **NEVER JUST SEND THE BITCOINS BACK.** You do not want to trigger potential criminal liability or the headaches that surround even the potential criminal charges if no conviction results where criminal liability did not previously exist. 
 
