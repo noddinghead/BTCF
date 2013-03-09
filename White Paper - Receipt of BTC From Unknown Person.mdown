@@ -1,11 +1,9 @@
-->**White Paper: Opinion[^1]  of The Bitcoin Foundation as to the**<-
-->**Rights and Duties that Arise When a Person Receives Bitcoins**<-
-->**from an Unknown Source and Without Any Explanation**<-
+<title>White Paper: Opinion[^1] of The Bitcoin Foundation as to the Rights and Duties that Arise When a Person Receives Bitcoins from an Unknown Source and Without Any Explanation</title>
 
-->**Gregory Egan, Esq.[^2]**<-
-->**Patrick Murck, Esq.[^3]**<-
+**Gregory Egan, Esq.[^2]**
+**Patrick Murck, Esq.[^3]**
 
-->**February 15, 2013**<-
+**March 8, 2013**
 
 **I. Scenario**
 
